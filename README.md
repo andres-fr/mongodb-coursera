@@ -18,3 +18,14 @@ mongoimport --uri "mongodb+srv://<PROJECT>:<PROJECT-PWD>@mflix-d8wrg.mongodb.net
 ```
 
 4. Downloaded and installed compass. Go to atlas->connect->compass, copy string and compass will detect automatically. fill with pwd. And in favorite set: Analytics Free-Tier. Connect and explore data.
+
+5. Connect from a python application: `pip install pymongo`. Also `pip install dnspython`
+
+see week1.py
+
+done stuff with the jupyter notebook, answer for quiz is 11.
+
+```
+
+
+```
